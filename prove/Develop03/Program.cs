@@ -45,6 +45,7 @@ class Program
         {
             "For God so loved the world that he gave his one and only Son that whoever believes in him shall not perish but have eternal life"
         };
+    
 
         // Create the Verse object
         Verse _scriptureVerse = new Verse(_scriptureWord);
